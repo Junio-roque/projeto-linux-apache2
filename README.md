@@ -3,6 +3,6 @@
 
 <p>Aprendendo a gerenciar pacotes no linux</p>
 <p>Aprendendo a gerenciar discos no linux</p>
-<p>Aprendendo a copiar arquivos e manipulalos os processos</p>
+<p>Aprendendo a copiar arquivos e manipulados os processos</p>
 <br>
-<p>Provisionamento de Script em um Servidor Apache deixando automatico para baixar, descompactar o aquivo unzip</p>
+<p>Provisionamento de Script em um Servidor Apache deixando automático para baixar, descompactar o arquivo unzip</p>
